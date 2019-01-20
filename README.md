@@ -1,6 +1,6 @@
 # HarvardX: PH125.9x Data Science Capstone (Choose your own)
 Pima Indians Diabetes Prediction
 
-Uses R, Keras, Tensorflow
+Uses R neuralnet package
 
-Final accuracy 80%
+Final accuracy 77.9%
